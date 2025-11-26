@@ -1834,23 +1834,6 @@ section,
 }
 
 
-/* RESPONSIVE FIX untuk hero section agar gambar tidak menindih teks */
-@media (max-width: 768px) {
-
-  #hero img {
-    width: 200px !important;
-    height: 220px !important;
-    margin-top: 0 !important;
-  }
-
-  #hero .row {
-    text-align: center;
-  }
-
-  #hero .col-lg-8 {
-    margin-top: 20px;
-  }
-}
 
 /*--------------------------------------------------------------
 # Starter Section Section
